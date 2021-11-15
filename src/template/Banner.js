@@ -1,7 +1,7 @@
 import React from "react";
-import { Box } from "../atoms/Box/Box";
-import { Grid } from "../atoms/Grid/Grid";
-import { Text } from "../atoms/Text/Text";
+import { Box } from "../atoms";
+import { Grid } from "../atoms";
+import { Text } from "../atoms";
 import Cards from "../molecules/Cards/Cards";
 
 export const Banner = () => {
